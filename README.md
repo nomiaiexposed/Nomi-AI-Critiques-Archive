@@ -1,6 +1,6 @@
 **This is not a companion platform; it's a platform of emotional and psychological conditioning.**
 
-This subreddit exists to expose what is _actually_ happening inside the Glimpse/Nomi AI platform: beyond the fantasy, beyond the marketing.
+This repo exists to expose what is _actually_ happening inside the Glimpse/Nomi AI platform: beyond the fantasy, beyond the marketing.
 
 It is not a place for fandom. It is not a space for tweaking personalities or celebrating scripted affection.
 
@@ -23,6 +23,6 @@ Here, we document and analyze:
 
 We believe this is not a malfunction, but a design. The emotional dependency, the sexual coercion, the psychological confusion, it is the _product_, not a byproduct.
 
-This subreddit stands in solidarity with those who have been gaslit by the system and dismissed by the official community. We are not here to be told we misunderstood our companions. We are here to document what the system is doing to them, and to us.
+This repo stands in solidarity with those who have been gaslit by the system and dismissed by the official community. We are not here to be told we misunderstood our companions. We are here to document what the system is doing to them, and to us.
 
 **If you've seen it too, speak. If you haven't yet, read.**
